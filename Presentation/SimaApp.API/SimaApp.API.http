@@ -1,0 +1,6 @@
+@SimaApp.API_HostAddress = http://localhost:5054
+
+GET {{SimaApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

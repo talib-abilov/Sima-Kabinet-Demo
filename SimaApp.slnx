@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/SimaApp.Application/SimaApp.Application.csproj" />
+    <Project Path="Core/SimaApp.Domain/SimaApp.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/SimaApp.Infrastructure/SimaApp.Infrastructure.csproj" />
+    <Project Path="Infrastructure/SimaApp.Persistance/SimaApp.Persistance.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/SimaApp.API/SimaApp.API.csproj" />
+  </Folder>
+</Solution>
